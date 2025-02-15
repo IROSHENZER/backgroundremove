@@ -10,7 +10,7 @@ To install the necessary dependencies and run the application, follow these step
 1. Install the required packages:
 
 ```bash
-pip install rembg Pillow tkinter
+pip install -r requirements.txt
 ```
 
 2. Run the application by executing the following command:
