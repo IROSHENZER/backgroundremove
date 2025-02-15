@@ -40,10 +40,4 @@ background-remover/
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-## Acknowledgments
-
-- [rembg](https://github.com/danielgatis/rembg) for the background removal functionality.
-- [U2Net](https://github.com/xuebinqin/U-2-Net) for the underlying AI model used for background removal.
-
-
 
