@@ -1,4 +1,4 @@
-# Image Background Remover GUI
+# Image Background Remover GUI - Python
 
 ## Overview
 The Image Background Remover GUI is a Python application that allows users to remove the background from images easily using a graphical user interface (GUI). It uses the `rembg` library to perform background removal and `Pillow` (PIL) for image handling, along with `tkinter` for the GUI components.
