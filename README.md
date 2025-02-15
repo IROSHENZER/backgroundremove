@@ -16,7 +16,7 @@ pip install rembg Pillow tkinter
 2. Run the application by executing the following command:
 
 ```bash
-python bgremover.py
+python bgremove.py
 ```
 
 ## File Structure
@@ -24,7 +24,7 @@ python bgremover.py
 ```
 background-remover/
 │
-├── app.py              # Main application file
+├── bgremove.py           # Main application file
 ├── README.md           # Documentation for the project
 └── requirements.txt    # Project dependencies
 ```
